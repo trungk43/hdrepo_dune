@@ -1,4 +1,4 @@
-version_index=1
+version_index=2
 version=0.2
 download_url=https://raw2.github.com/trungk43/hdrepo_dune/master/dune_plugin_hdrepo_v0.2.zip
 space_needed=1400000
