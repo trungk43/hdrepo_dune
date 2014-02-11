@@ -1,0 +1,5 @@
+version_index=1
+version=0.1
+download_url=http://dl.dropboxusercontent.com/u/13455121/Dune/update/youtube/dune_plugin_youtube_v0.9.8.tar.gz
+space_needed=1400000
+last_critical_version_index=1
