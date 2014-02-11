@@ -1,5 +1,5 @@
 version_index=1
-version=0.1
-download_url=https://raw2.github.com/trungk43/hdrepo_dune/master/hdrepo_dune_0.1.zip
+version=0.2
+download_url=https://raw2.github.com/trungk43/hdrepo_dune/master/hdrepo_dune_0.2.zip
 space_needed=1400000
 last_critical_version_index=1
